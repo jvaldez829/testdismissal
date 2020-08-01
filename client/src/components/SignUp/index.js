@@ -134,10 +134,7 @@ class Signup extends Component {
             Submit
           </button>
           <h3 className='text-light'>Hello {this.state.email}!</h3>
-          <p className='text-light'>
-            I probably shouldn't tell you this, but your password is
-            {this.state.password}!
-          </p>
+      
         </form>
       </FormContainer>
     )
