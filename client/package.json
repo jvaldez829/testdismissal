@@ -7,7 +7,7 @@
     "@primer/octicons-react": "^9.6.0",
     "animate.css": "^3.7.2",
     "axios": "^0.19.2",
-    "bootstrap": "^4.4.1",
+    "bootstrap": "^4.5.1",
     "classnames": "^2.2.6",
     "jwt-decode": "^2.2.0",
     "passport": "^0.4.1",
